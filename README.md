@@ -4,9 +4,10 @@ A minimal collection of cheatsheets and reusable scripts for everyday developmen
 
 ## Contents
 
-- `tmux.md` — Common `tmux` commands.
-- `docker.md` — Frequently used `docker` commands and patterns.
+- `bash/` — general use bash scripts
 - `SQL/` — Generic, reusable SQL scripts for reference.
+- `docker.md` — Frequently used `docker` commands and patterns.
+- `tmux.md` — Common `tmux` commands.
 
 ---
 
